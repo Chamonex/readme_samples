@@ -22,5 +22,3 @@ conteudo
 
 ## Status do projeto AA
 
-## Contatos AA
-

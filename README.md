@@ -2,8 +2,6 @@
 
 ## Sumário
 
-
-
 ## Sobre
 
 ## Instalação
@@ -19,6 +17,8 @@
 ## URLs Relevantes
 
 ### Ambientes
+
+## Rotas da aplicação
 
 ## Status do projeto
 

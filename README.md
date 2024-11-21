@@ -1,7 +1,7 @@
 # Meu título
 
 ## Sumário AA
-conteudo
+- sobre
 ## Sobre AA
 conteudo
 ## Instalação AA
